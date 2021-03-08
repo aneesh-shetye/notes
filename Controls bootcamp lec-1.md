@@ -1,5 +1,8 @@
 # Lecture 1: Linear Systems
 
+[![hackmd-github-sync-badge](https://hackmd.io/KUWqtygITTyR81yE0Q6iIA/badge)](https://hackmd.io/KUWqtygITTyR81yE0Q6iIA)
+
+
 ###### tags: `Controls Bootcamp`
 
 $$ \dot{x} = Ax + Bu $$
