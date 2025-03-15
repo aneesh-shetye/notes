@@ -18,4 +18,5 @@ NOTE: Many Notes contain only the introduction, motivation/novelty and the model
 | 4.| A Focused Dynamic Attention Model for Visual Question Answering | https://arxiv.org/abs/1604.01485 | https://hackmd.io/UWmL5TyUTxmzPQNe4X5IFg| 
 | 5.| ABC-CNN : An Attention Based Convolutional Neural Network for Visual Question Answering | https://arxiv.org/abs/1511.05960 | https://hackmd.io/rIwLt62kTkSeD0ZcV278aw | 
 | 6.| Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding | https://arxiv.org/abs/1606.01847 | https://hackmd.io/6Z1tPhpjQ820EMXVvSz5CQ | 
-
+| 7.| LS-LLM Language Models Speed Up Local Search for Finding Programmatic Policies | https://research.tue.nl/en/publications/language-models-speed-up-local-search-for-finding-programmatic-po | https://shore-writer-895.notion.site/LS-LLM-Language-Models-Speed-Up-Local-Search-for-Finding-Programmatic-Policies-172321aa05fa806faa2ed16c0c820646?pvs=4 |
+| 8.| Quailty-Diversity Self-Play: Open-Ended Strategy Innovation via Foundation Models | https://openreview.net/forum?id=xPWZTvdobm | https://shore-writer-895.notion.site/Quailty-Diversity-Self-Play-Open-Ended-Strategy-Innovation-via-Foundation-Models-172321aa05fa803e9f58f23e061b24ba?pvs=4 | 
